@@ -1,7 +1,8 @@
+# https://www.youtube.com/watch?v=f8mL0_4GeV0&ab_channel=Rush
+# TEAM XTREMEGO HORSE!!
+# Livia... A Braba Baronense!!
+# Isso é problema nas Junta
+# Johnny wuz here
 # TesteAula
-<<<<<<< HEAD
-
-# Explicando o commit
-=======
 # Explicando commit
->>>>>>> a33ff02ed5c25df49f14fae8ec0520b89884dc66
+
